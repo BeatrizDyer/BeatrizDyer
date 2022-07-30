@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi, i'm Beatriz</h1>
 
-<!--
-**BeatrizDyer/BeatrizDyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 17y
+- An enthusiastic Developer
+<hr/>
 
-Here are some ideas to get you started:
+<h1 align="center">💻 Technologies and Tools</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <img src='https://skillicons.dev/icons?i=nodejs,js,html,css,mongodb,c' />
+    </a>
+  </p>
+
+<h1 align="center">📚 GitHub Stats</h1>
+
+  <p align="center">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizDyer&layout=compact&theme=dark' />
+    </a>
+  </p>

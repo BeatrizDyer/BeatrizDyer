@@ -1,7 +1,4 @@
-<h1 align="center">Hi, i'm Beatriz</h1>
-
-- 17y
-- An enthusiastic Developer
+<h1 align="center">Hi, my name's Beatriz!</h1>
 <hr/>
 
 <h1 align="center">💻 Technologies and Tools</h1>

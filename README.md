@@ -14,6 +14,7 @@ Olá! Meu nome é Beatriz Vieira, e atuo na área de análise e desenvolvimento 
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
+<center>
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "LINUX"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" title = "LUA"/></code>
@@ -27,10 +28,11 @@ Olá! Meu nome é Beatriz Vieira, e atuo na área de análise e desenvolvimento 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODEJS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title = "DISCORDJS"/></code>
+</center>
 
 </br>
 <div display="inline-block">
- <p align="left">🔨 Faço parte da equipe de desenvolvedores da <a href="https://nacionalplayer.com.br">Nacional Player Jogos</a></p>
+ <p align="center">🔨 Faço parte da equipe de desenvolvedores da <a href="https://nacionalplayer.com.br">Nacional Player Jogos</a></p>
 </div>
 
 

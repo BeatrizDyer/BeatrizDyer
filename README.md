@@ -1,14 +1,14 @@
 <div dsplay="inline-block">
 
  
- <h1 align="left">Beatriz Vieira</h1>
+ <h1 align="left">Beatriz</h1>
 
 </div>
 
 
 ## E aí, pessoal!
 
-Olá! Meu nome é Beatriz Vieira, e atuo na área de análise e desenvolvimento de sistemas há 4 anos. Sou apaixonada por desafios e sempre busco aprimorar minhas habilidades, seja desenvolvendo novas mecânicas, otimizando sistemas existentes ou explorando tecnologias que tragam mais realismo e interatividade aos projetos em que trabalho. 🚀
+Olá! Meu nome é Beatriz, e atuo na área de desenvolvimento de sistemas há 4 anos. Sou apaixonada por desafios e sempre busco aprimorar minhas habilidades, seja desenvolvendo novas mecânicas, otimizando sistemas existentes ou explorando tecnologias novas 🚀
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">

@@ -15,7 +15,6 @@ Olá! Meu nome é Beatriz Vieira, e atuo na área de análise e desenvolvimento 
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<center>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "LINUX"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" title = "LUA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -28,7 +27,6 @@ Olá! Meu nome é Beatriz Vieira, e atuo na área de análise e desenvolvimento 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODEJS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title = "DISCORDJS"/></code>
-</center>
 
 </br>
 <div display="inline-block">

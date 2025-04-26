@@ -8,7 +8,7 @@
 
 ## E aí, pessoal!
 
-Olá! Meu nome é Beatriz, e atuo na área de desenvolvimento de sistemas há 4 anos. Sou apaixonada por desafios e sempre busco aprimorar minhas habilidades, seja desenvolvendo novas mecânicas, otimizando sistemas existentes ou explorando tecnologias novas 🚀
+Olá! Meu nome é Beatriz, e atuo na área de desenvolvimento de sistemas há 4 anos. É isso.
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">

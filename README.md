@@ -31,6 +31,7 @@ Olá! Meu nome é Beatriz, e atuo na área de desenvolvimento de sistemas há 4 
 </br>
 <div display="inline-block">
  <p align="center">🔨 Faço parte da equipe de desenvolvedores da <a href="https://nacionalplayer.com.br">Nacional Player Jogos</a></p>
+ <p align="center">💍 Em relacionamento com Gabriel Henrique (Stiff)</p>
 </div>
 
 
